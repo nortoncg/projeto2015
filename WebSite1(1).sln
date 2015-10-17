@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "Persistencia\Persistencia.csproj", "{46E0EC07-5F9B-44FA-8665-B06D424263F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{4212B569-ACD7-4196-B31E-8227FB6D864A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoW3", "WebApplication2\ProjetoW3.csproj", "{4212B569-ACD7-4196-B31E-8227FB6D864A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
